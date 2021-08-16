@@ -1,0 +1,82 @@
+{
+  "main": {
+    "name":"Utkarsh Sharma",
+    "occupation":" budding Software-Application Developer",
+    "description":"Interested in real life problem solving challenges, competetive programming, development from scratch, and enjoy bringing ideas to life in the browser",
+    "image":"profilepic.jpg",
+    "contactmessage":" If you like my work and have some cool projects/idea/work opportunity to work on, just send me a direct email message or contact me through respective social sites.  ",
+    "email": "utkarshus2000@gmail.com",
+    "phone": "+91 7800140411",
+    "address":{
+      "city":"Delhi - ",
+      "state":"India"
+    },
+    "website": "https://www.alex-portfolio.org/",
+    "resumedownload":"https://drive.google.com/uc?export=pdf&id=1Z5hSjSXwjk3i4BdCfehg0YSAKZ34BDfC",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/utkarsharma_",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/utkarsharma22/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/U-c0de",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"email",
+        "url": "mailto:utkarshus2000@gmail.com?subject=The%20subject%20of%20the%20mail",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"ABES Institute of Technology, Ghaziabad",
+        "degree":"Computer Science and Engineering",
+        "graduated":" 2019 - 2023",
+        "description":"Course Work is as follows :  Applied Physics-Chemistry , Computational Mathematics , Electrical Science , Formal Language and Automata , Microprocessor and Microcontroller , Computer Organization , Operating System , Object-Oriented System , Compiler Design , Computer System Security , Python with Data Science , Data Structures and Algorithms , Computer Networks , Database Management System "
+      }
+    ],
+    "work":[
+      {
+        "company": "GirlScript Summer of Code | GirlScript Foundation",
+        "title": "Open Source Contributor",
+        "years": "March 2021 - July 2021",
+        "description": "Contributed to three unique open source projects based on Data Structures and Algorithms, Python frameworks and Full-stack development. Raised almost 50+ issues in five projects based on React, Web framework, JavaScripts, Coding-Algorithm site and Django Website.  "
+      },
+      {
+        "company":"Geeks-For-Geeks",
+        "title":"Technical Content Writer",
+        "years":"July 2021 - December 2021",
+        "description":"Contributed Articles and Informative subjective study material for official website of GeeksForGeeks. Published articles based on latest technologies, famous frameworks, coding languages, recent advancements and subjective theory-questions. Improved/updated previously published articles for better knowledge and easy readibility. "
+      },
+      {
+        "company":"Google Developers Club ABESIT | Student Progam ",
+        "title":"Technical Core Member-Student Mentor",
+        "years":"January 2020 - August 2020",
+        "description":"Mentored students on a 1:1 basis on various google programs, workshops and internships. Provided both technical and supportive assistance over individual and group projects throughout the Student Club tenure. Helped many students in registering to important courses and clearing course doubts too. Taught the campus students usage of community platforms and latest technologies-framework for better reach. "
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"ACHIEVEMENTS -",
+        "text1":" - CODECHEF : Highest Rating- 3 * (1771), Ranked 306th/ 30K   participants in May Long Challenge, ",
+        "text2":"ACHIEVEMENTS - CPP                                               DPON",
+        "text3":"ACHIEVEMENTS - CPP                                               DPON",
+        "text4":"ACHIEVEMENTS - CPP                                               DPON",
+        "text5":"ACHIEVEMENTS - CPP                                               DPON"
+        
+      }
+    ]
+  }
+}
